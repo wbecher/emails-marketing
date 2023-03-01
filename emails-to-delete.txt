@@ -22,6 +22,7 @@ coalesce@getdbt.com
 cole@storytellingwithdata.com
 comercial@bebedorminhoco.com.br
 comercial@erickwendel.com.br
+comms@mailout.comms.premierleague.com
 community@codingame.com
 community@faun.dev
 comunica@belasletras.com.br
