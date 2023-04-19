@@ -4,6 +4,7 @@ adidas@us-news.adidas.com
 admin@datascienceacademy.com.br
 ahoy@potatopirates.game
 ajuda@yuool.com.br
+akenning@mktg.aquent.com
 amcplus@amcn.amcplus.com
 ame@news.amedigital.com
 announce2@myheritage.com
@@ -34,6 +35,7 @@ comunicado@suporte.amigosecreto.com.br
 contact@email.paramountplus.com
 contact@mailer.humblebundle.com
 contact@themeisle.com
+contato@alemaocomhanna.com.br
 contato@amopaocaseiro.com.br
 contato@digiocliente.com.br
 contato@minerandodados.com.br
@@ -124,7 +126,6 @@ newsletter@deals.banggood.com
 newsletter@email2.gog.com
 newsletter@mail2.fontshop.com
 newsletter@techmeme.com
-newsletter@techmeme.com
 newsletter@themarkup.org
 newsletters@e.economist.com
 newsletters@email.reuters.com
@@ -138,7 +139,6 @@ no-reply@mail.instagram.com
 no-reply@marketing.hbomax.com
 no-reply@news.email.dafiti.com.br
 no-reply@promo.dafiti.com.br
-no-reply@xpeducacao.com.br
 no-reply@xpeducacao.com.br
 noreply_at_photomyne_com_tk82v9rmsk_bb097209@privaterelay.appleid.com
 noreply-br@email.decathlon.com
@@ -198,7 +198,6 @@ team@vuemastery.com
 teamzoom@e.zoom.us
 thenewyorker@eml.condenast.com
 thesalvationarmy@email-salvationarmymidwest.org
-thesalvationarmy@email-salvationarmymidwest.org
 thinkwithgoogle-noreply@google.com
 tim@checklyhq.com
 tony@devdojo.com
@@ -207,5 +206,6 @@ updates-noreply@linkedin.com
 updates@marketing.descript.com
 vanityfair@newsletter.vf.com
 voce@rabusch.com.br
+webmaster@opencart.com
 wes@wesbos.com
 yousician@yousician.com
