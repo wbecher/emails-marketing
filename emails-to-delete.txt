@@ -9,6 +9,7 @@ amcplus@amcn.amcplus.com
 ame@news.amedigital.com
 announce2@myheritage.com
 announcements@huggingface.co
+AquentAustralia@mktg.aquent.com
 assinante@globoplaymkt.globo.com
 atendimento.afinz@grbsf.com.br
 azure@email.microsoft.com
@@ -18,6 +19,7 @@ bindureddy@abacusai.link
 bonappetit@eml.condenast.com
 brandon@prohomecooks.com
 briefing@nature.com
+buscape@pravc.buscape.com.br
 callofduty@comms.activision.com
 clientes@email.tiendamia.com
 coalesce@getdbt.com
@@ -105,6 +107,7 @@ lojavirtual@a.newsiplace.com.br
 lovers@mail.cacaushow.com.br
 ludenio@substack.com
 mail@depositphotos.com
+mail@iconscout.com
 marcela@thefactory.co
 mariafernanda.p@thoughtworks.com
 marketing@influxdata.com
@@ -117,6 +120,7 @@ mongodbteam@mail1.mongodb.com
 nao-responda@ead.guru
 nao-resposta@communications.mastercard.com.br
 neon@meuneon.com.br
+news@comunicacao.arezzo.com.br
 news@email.shopee.com
 news@emkt.cvc.com.br
 news@exclusivo.leroymerlin.com.br
