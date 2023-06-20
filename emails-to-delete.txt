@@ -219,3 +219,4 @@ voce@rabusch.com.br
 webmaster@opencart.com
 wes@wesbos.com
 yousician@yousician.com
+notifications@github.com
