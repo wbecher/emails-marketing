@@ -146,6 +146,7 @@ no-reply@mail.instagram.com
 no-reply@marketing.hbomax.com
 no-reply@news.email.dafiti.com.br
 no-reply@promo.dafiti.com.br
+no-reply@veeps.com
 no-reply@xpeducacao.com.br
 noreply_at_photomyne_com_tk82v9rmsk_bb097209@privaterelay.appleid.com
 noreply-br@email.decathlon.com
@@ -161,9 +162,11 @@ noreply@steampowered.com
 noreply@theoldreader.com
 noreply@updates.itch.io
 notification@service.tiktok.com
+notifications@github.com
 novidades@ecom.clubeextra.com.br
 novidades@hopelingerie.com.br
 novidades@relacionamento.zzmall.com.br
+offers@kewadin.com
 ola@hurra-herois.com.br
 ola@kinedu.com
 omnimaxtv@gmail.com
@@ -181,6 +184,7 @@ rxfjunfytujsxtuy@gmail.com
 ryank@experience.acloud.guru
 ryank@hello.acloud.guru
 sac@nerdstore.com.br
+sacerdoti@pipedream.com
 sae@documentodoestudante.com.br
 scottbritton@substack.com
 scottbritton+consciousness-videos@substack.com
@@ -219,4 +223,3 @@ voce@rabusch.com.br
 webmaster@opencart.com
 wes@wesbos.com
 yousician@yousician.com
-notifications@github.com
