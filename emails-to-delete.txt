@@ -49,6 +49,7 @@ conteudo@projetodraft.com
 craig@specialprojects.jp
 cultlist@getrevue.co
 dailybriefing@thomsonreuters.com
+dailybriefing@thomsonreuters.com
 descontos@envios.buscape.com.br
 descript@marketing.descript.com
 discussions_watched@notifications.huggingface.co
@@ -57,6 +58,7 @@ ead@dio.me
 editor@toptal.com
 editor1@kdnuggets.com
 email.campaign@sg.booking.com
+email@washingtonpost.com
 emailmkt@ikeg.com.br
 emailnews@positivocasainteligente.com.br
 events@gitnation.org
