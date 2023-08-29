@@ -12,6 +12,7 @@ announcements@huggingface.co
 AquentAustralia@mktg.aquent.com
 assinante@globoplaymkt.globo.com
 atendimento.afinz@grbsf.com.br
+atendimento@tr.quero-quero.com.br
 azure@email.microsoft.com
 babycenter@newsletters.babycenter.com
 batman@querodobra.com.br
@@ -27,12 +28,14 @@ coalesce@getdbt.com
 cole@storytellingwithdata.com
 comercial@bebedorminhoco.com.br
 comercial@erickwendel.com.br
+comercial@fundatec.org.br
 comms@mailout.comms.premierleague.com
 community@codingame.com
 community@faun.dev
 comunica@belasletras.com.br
 comunicacao.editora@unesp.br
 comunicacao@btgpactual.com
+comunicacao@ticto.com.br
 comunicacao@unesp.br
 comunicado@suporte.amigosecreto.com.br
 contact@email.paramountplus.com
@@ -78,6 +81,7 @@ hello@lottiefiles.com
 hello@metabase.com
 hello@news.amaro.com
 hello@producthunt.com
+hello@shopmoment.com
 help+newsletter@emsender.threadless.com
 hey@you.com
 hi@sudowrite.com
@@ -115,6 +119,7 @@ mail@depositphotos.com
 mail@iconscout.com
 marcela@thefactory.co
 mariafernanda.p@thoughtworks.com
+marketing@editoraconcordia.com.br
 marketing@influxdata.com
 marketing@targettrust.com.br
 marketing@unsplash.com
@@ -129,6 +134,7 @@ news@comunicacao.arezzo.com.br
 news@email.shopee.com
 news@emkt.cvc.com.br
 news@exclusivo.leroymerlin.com.br
+news@latampassmail.com
 news@shop.kobo.com
 news@updates.ubisoft.com
 newsletter-ev@news.estantevirtual.com.br
