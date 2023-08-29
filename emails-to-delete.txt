@@ -229,6 +229,7 @@ update@email.flixbus.com
 updates-noreply@linkedin.com
 updates@marketing.descript.com
 vanityfair@newsletter.vf.com
+VFW_Post_3500@mail.vresp.com
 voce@rabusch.com.br
 webmaster@opencart.com
 wes@wesbos.com
