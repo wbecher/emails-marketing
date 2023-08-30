@@ -52,6 +52,7 @@ contato@rogerlerina.com.br
 contato@yourviews.com.br
 conteudo@projetodraft.com
 craig@specialprojects.jp
+cult-list@mail.cultofmac.com
 cultlist@getrevue.co
 dailybriefing@thomsonreuters.com
 descontos@envios.buscape.com.br
@@ -61,6 +62,7 @@ ea@e.ea.com
 ead@dio.me
 editor@toptal.com
 editor1@kdnuggets.com
+elist@panic.com
 email.campaign@sg.booking.com
 email@washingtonpost.com
 emailmkt@ikeg.com.br
@@ -74,6 +76,7 @@ giovanni@checklyhq.com
 googlecloud@google.com
 havan@info.lojashavan.com.br
 hello@battlesnake.com
+hello@dataquest.io
 hello@duolingo.com
 hello@email.wandb.com
 hello@emailmeter.com
@@ -121,9 +124,11 @@ marcela@thefactory.co
 mariafernanda.p@thoughtworks.com
 marketing@editoraconcordia.com.br
 marketing@influxdata.com
+marketing@marketing.picpay.com
 marketing@stella.com.br
 marketing@targettrust.com.br
 marketing@unsplash.com
+mensageiro@e.kabum.com.br
 mkt@feevale.br
 mkt@manning.com
 mktg@ciandt.com.br
@@ -235,9 +240,3 @@ voce@rabusch.com.br
 webmaster@opencart.com
 wes@wesbos.com
 yousician@yousician.com
-hello@dataquest.io
-elist@panic.com
-mensageiro@e.kabum.com.br
-marketing@marketing.picpay.com
-cult-list@mail.cultofmac.com
-notifications@github.com
