@@ -19,10 +19,12 @@ batman@querodobra.com.br
 bindureddy@abacusai.link
 bonappetit@eml.condenast.com
 brandon@prohomecooks.com
+brastemp@email-brastemp.com
 briefing@nature.com
 buscape@pravc.buscape.com.br
 callofduty@comms.activision.com
 cea@mail.e.cea.com.br
+ceapay@mail.e.ceapay.com.br
 clientes@email.tiendamia.com
 coalesce@getdbt.com
 cole@storytellingwithdata.com
@@ -161,6 +163,7 @@ no-reply@leanpub.com
 no-reply@mail.instagram.com
 no-reply@marketing.hbomax.com
 no-reply@news.email.dafiti.com.br
+no-reply@oracle.com
 no-reply@promo.dafiti.com.br
 no-reply@veeps.com
 no-reply@xpeducacao.com.br
@@ -172,6 +175,7 @@ noreply@md.getsentry.com
 noreply@mideadobrasil.com.br
 noreply@news.br.vaio.com
 noreply@news.positivocasainteligente.com.br
+noreply@opensubtitles.org
 noreply@paramountplus.com
 noreply@realvnc.com
 noreply@showwcase.com
@@ -188,6 +192,7 @@ offers@kewadin.com
 ola@hurra-herois.com.br
 ola@kinedu.com
 omnimaxtv@gmail.com
+product@netdata.cloud
 rappi@hello.rappi.com.br
 recommendations@discover.pinterest.com
 relacionamento@divulga.sebrae.com.br
@@ -195,6 +200,7 @@ relacionamento@email.claropay.com.br
 relacionamento@marketing.burgerking.com.br
 relacionamento@minhaclaro.com.br
 replies@m.lastpass.com
+reply@email.lgmarketing.com.br
 reply@pan.com.vc
 reply@resemble.ai
 reply@xpeducacao.com.br
@@ -243,3 +249,4 @@ webmaster@opencart.com
 weekender@mail.cultofmac.com
 wes@wesbos.com
 yousician@yousician.com
+zoom@pravc.zoom.com.br
